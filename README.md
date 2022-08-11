@@ -1,5 +1,6 @@
 # raspberry-pi-pico-experiments
-Getting started with raspberry pi pico and blink onboard LED
+Getting started with raspberry pi pico and blink onboard LED.
+***
 In this project we will be setting up the raspberry pi pico and blink it's onboard LED. We will be setting up the raspberry pi pico on windows and on raspberry pi OS.
 ***
 windows:
