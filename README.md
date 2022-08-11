@@ -1,5 +1,5 @@
 # raspberry-pi-pico-experiments
-Getting started with raspberry pi pico and blink onboard LED.
+Getting started with raspberry pi pico (WH or H) and blink onboard LED.
 ***
 In this project we will be setting up the raspberry pi pico and blink it's onboard LED. We will be setting up the raspberry pi pico on windows and on raspberry pi OS.
 ***
@@ -10,7 +10,7 @@ windows:
 
 ![](https://gobrowse.github.io/Screen%20Shot%202021-05-15%20at%205.56.39%20PM.png)
 
-4. change "standard" to "raspberry pi"
+4. change "Standard" to "Raspberry pi"
 
 ![](https://gobrowse.github.io/Screen%20Shot%202021-05-15%20at%205.56.49%20PM.png)
 
@@ -23,7 +23,7 @@ for more information go to [raspberrypi.org/documentation/rp2040/getting-started
 
 7. go to thonny
 
-8. in thonny press the "switch to regular mode"
+8. in Thonny press the "switch to regular mode"
 
 ![](https://gobrowse.github.io/Screen%20Shot%202021-05-15%20at%206.37.32%20PM.png)
 
